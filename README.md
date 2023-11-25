@@ -1,4 +1,4 @@
-# Organon Company - Cadastro de Funcionários
+# Organo Company - Cadastro de Funcionários
 
 Bem-vindo ao Organon Company, um aplicativo React para o cadastro de funcionários por categoria, que utiliza o GitHub para obter automaticamente as imagens do perfil.
 
